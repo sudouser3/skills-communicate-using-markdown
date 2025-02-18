@@ -6,3 +6,7 @@
 ###### This is an example of an H6 Header!
 
 ![Image of meatbuns](https://img.youtube.com/vi/92bBOPZAtgY/hqdefault.jpg)
+
+```python
+print('Hello, World!')
+```
